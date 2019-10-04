@@ -201,3 +201,26 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+.strategycontainer {
+    border-top: 2px dotted black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+
+.halfcontainer {
+    border-bottom: 2px dotted black;
+    width: 370px;
+    margin: 25px 12px;
+}
+
+.learnmore {
+    border: 2px solid black;
+    border-radius: 8px;
+    width: 130px;
+    height: 40px;
+    margin: 20px 0px;
+    padding: 10px;
+    text-align: center;
+}
