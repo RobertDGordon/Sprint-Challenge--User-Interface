@@ -49,7 +49,7 @@ table {
 
 * {
     box-sizing: border-box;
-    /* border: 1px solid red; */
+    border: 1px solid red;
 }
 
 html, body {
@@ -92,6 +92,11 @@ p {
 .container {
     width: 800px;
     margin: 0 auto;
+}
+.about-page{
+    border: 1px solid blue;
+    margin: 0 auto;
+    padding: 20px;
 }
 
 .top-content {
